@@ -1,4 +1,10 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# MyPad React Native App
+
+This project is a React Native implementation of the **MyPad** Figma design, featuring exclusive drops, rewards, and streamer interactions.
+
+![mypad](https://github.com/user-attachments/assets/89153ed6-3872-4acf-9aba-aa452e72b484)
+
+This is a  [**React Native**](https://reactnative.dev) project using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
